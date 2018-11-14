@@ -1,0 +1,10 @@
+.container{
+    background: paleturquoise;
+    display: flex;
+    flex-direction: row;
+}
+.item {
+    width: 200px;
+    height: 200px;
+    background: palevioletred;
+}
